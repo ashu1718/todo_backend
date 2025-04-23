@@ -3,8 +3,7 @@ __pycache__/
 *.py[cod]
 *.sqlite3
 
-# Django migrations
-**/migrations/
+
 
 # Environment variables / secrets
 .env
